@@ -1,6 +1,6 @@
-# Grandma's Recipes Project
+# Recipes Project
 
-Welcome to the Grandma's Recipes project! This is a web application that allows users to search for and explore various recipes. Whether you're looking for that secret family recipe or just want to try something new, our platform has got you covered. This README will guide you through the frontend and backend aspects of the project.
+Welcome to the Recipes project! This is a web application that allows users to search for and explore various recipes. Whether you're looking for that secret family recipe or just want to try something new, our platform has got you covered. This README will guide you through the frontend and backend aspects of the project.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to the Grandma's Recipes project! This is a web application that allows 
 
 ## Introduction
 
-The Grandma's Recipes project is a recipe search system designed to provide users with access to a diverse database of recipes. Users can view recipe details, preparation instructions, and even save their favorite family recipes. The project is divided into frontend and backend components, each fulfilling specific requirements set by the client.
+The Recipes project is a recipe search system designed to provide users with access to a diverse database of recipes. Users can view recipe details, preparation instructions, and even save their favorite family recipes. The project is divided into frontend and backend components, each fulfilling specific requirements set by the client.
 
 ## Requirements
 
@@ -88,4 +88,4 @@ The recipe display page provides detailed information about a selected recipe. I
 
 The recipe search page enables users to search for recipes using a search box. Search results are displayed below the search bar, and users can choose the number of recipes returned. Filters based on cuisine, diet, and intolerance can be applied to refine search results. Detailed information for each recipe is presented, allowing users to easily explore and select recipes.
 
-Feel free to explore and interact with the different pages and features of the Grandma's Recipes project. Enjoy discovering new recipes and managing your culinary journey!
+Feel free to explore and interact with the different pages and features of the Recipes project. Enjoy discovering new recipes and managing your culinary journey!
