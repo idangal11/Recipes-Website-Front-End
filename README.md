@@ -6,14 +6,12 @@ Welcome to the Recipes project! This is a web application that allows users to s
 
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [Components](#components)
-4. [Navigation](#navigation)
-5. [About Page](#about-page)
-6. [Registration](#registration)
-7. [Login](#login)
-8. [Main Recipe Page](#main-recipe-page)
-9. [Recipe Display Page](#recipe-display-page)
-10. [Recipe Search Page](#recipe-search-page)
+3. [Navigation](#navigation)
+4. [About Page](#about-page)
+5. [Registration](#registration)
+6. [Login](#login)
+7. [Recipe Display Page](#recipe-display-page)
+8. [Recipe Search Page](#recipe-search-page)
 
 ## Introduction
 
@@ -32,12 +30,6 @@ The following are the main requirements that have shaped the project:
 - Create a main recipe page showcasing random recipes and recent user activity.
 - Design a recipe display page with detailed information, ingredients, and preparation instructions.
 - Develop a recipe search page with filters and search results.
-
-## Components
-
-The project utilizes various frontend components to achieve its functionality. Some of the components used include:
-- Bootstrap-Vue Directives for tooltips
-- Custom CSS for image overlays
 
 ## Navigation
 
@@ -73,12 +65,6 @@ The registration page allows users to create an account. During registration, us
 ## Login
 
 The login page allows registered users to access their accounts by providing their username and password. A link to the registration page is also available.
-
-## Main Recipe Page
-
-The main recipe page is divided into two columns:
-- Left Column: Displays three random recipes from the database. A button allows users to load more random recipes.
-- Right Column (For Logged-In Users): Displays the last three recipes viewed by the user.
 
 ## Recipe Display Page
 
